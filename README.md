@@ -1,4 +1,4 @@
-# Catch-Em-All
+# Catch Em All
 
 Jogo desenvolvido em Java para a disciplina Programação Orientada a Objetos.
 
